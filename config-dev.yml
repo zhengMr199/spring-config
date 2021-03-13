@@ -1,0 +1,2 @@
+config:
+  info: master  spring-cloud-config-center dev dev version=1

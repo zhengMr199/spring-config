@@ -1,0 +1,2 @@
+config:
+  info: master prod spring-cloud-config-center prod prod version=1
